@@ -1,0 +1,152 @@
+body {font-family: system-ui, Arial}
+h2{
+    color: darkgreen
+}
+.grid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+        "viz1 viz3 viz5"
+        "viz2 viz4 viz6"
+        "viz7 viz8 viz9"
+        "viz10 viz11 viz12";
+    width: 100%;
+    max-width: 1440px;
+}
+
+.badge {
+    color: white;
+    padding: 4px 8px;
+    text-align: center;
+    border-radius: 5px;
+  }
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.centered {
+    position: absolute;
+    top: 13%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.visualization {
+    margin-bottom: 10%;
+}
+
+#vis1 {
+    grid-area: viz1;
+}
+
+#vis2 {
+    grid-area: viz2;
+}
+
+#vis3 {
+    grid-area: viz3;
+}
+
+#vis4 {
+    grid-area: viz4;
+}
+
+#vis5 {
+    grid-area: viz5;
+}
+
+#vis6 {
+    grid-area: viz6;
+}
+
+#vis7 {
+    grid-area: viz7;
+}
+
+#vis8 {
+    grid-area: viz8;
+}
+
+#vis9 {
+    grid-area: viz9;
+}
+
+#vis10 {
+    grid-area: viz10;
+}
+
+#vis11 {
+    grid-area: viz11;
+}
+
+#vis12 {
+    grid-area: viz12;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #CE1141;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+.navbar a:hover {
+    background-color: black;
+}
+
+.dropdown {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 22%;
+    margin-left: 38%;
+    display: flex;
+    margin-top: 2%;
+  }
+  
+  .label-styles {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 16px;
+    color: #333;
+    white-space: nowrap;
+    margin-top: 5%;
+    margin-right: 2%;
+  }
+  
+  select {
+    width: 100%;
+    padding: 8px 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: white;
+    font-size: 14px;
+    color: #333;
+  }
+  
+  select:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+  }
+  
+  option {
+    padding: 10px;
+  }
+  
