@@ -87,7 +87,7 @@ By Visualizing traffic patterns in the years 2019-2020 and 2021-2022. We can det
 
 #### 1. Line Chart
 
-<img width="630" alt="Line Chart" src="https://github.com/uic-cs424/assignment-4-chicagobulls/assets/144625177/d36ff478-d0bf-4f40-83f4-483a19ea1dcd">
+<img width="630" alt="1" src="https://github.com/user-attachments/assets/bc0bd862-c052-41cc-b322-ce72d9926bce">
 
 
 - **Data Transformation**: Grouping and averaging speeds for each hour.
@@ -98,7 +98,7 @@ By Visualizing traffic patterns in the years 2019-2020 and 2021-2022. We can det
 
 #### 2. Bar Chart
 
-<img width="630" alt="Bar Chart" src="https://github.com/uic-cs424/assignment-4-chicagobulls/assets/144625177/54fdc318-18f0-4a37-84a5-ac71ddc16352">
+<img width="630" alt="2" src="https://github.com/user-attachments/assets/e864257a-8d83-4db7-99d9-758717fffcac">
 
 
 - **Data Transformation**: Sorting streets by average speed to identify the top 10 congested.
@@ -109,7 +109,7 @@ By Visualizing traffic patterns in the years 2019-2020 and 2021-2022. We can det
 
 #### 3. Bubble Chart
 
-<img width="630" alt="Bubble Chart" src="https://github.com/uic-cs424/assignment-4-chicagobulls/assets/144625177/8e5d62bf-d4ec-4bcd-9094-64374993cc61">
+<img width="630" alt="3" src="https://github.com/user-attachments/assets/ee83d618-dc5e-49a3-8de9-b36cb805e50c">
 
 
 - **Data Transformation**: Correlating bus count with average speed and segment length.
@@ -121,7 +121,7 @@ By Visualizing traffic patterns in the years 2019-2020 and 2021-2022. We can det
 
 #### 4. Box Plot
 
-<img width="630" alt="Box Plot" src="https://github.com/uic-cs424/assignment-4-chicagobulls/assets/144625177/3e4eb180-e5ec-4f2b-9f78-e320c45f6907">
+<img width="630" alt="4" src="https://github.com/user-attachments/assets/0a9767d1-d0c0-4487-ae6c-43fcf6390923">
 
 
 - **Data Transformation**: Grouping speeds by month to observe variations.
@@ -133,7 +133,7 @@ By Visualizing traffic patterns in the years 2019-2020 and 2021-2022. We can det
 
 #### 5. Scatter Plot
 
-<img width="630" alt="Scatter Plot" src="https://github.com/uic-cs424/assignment-4-chicagobulls/assets/144625177/b20c37ad-5a8f-46d9-9e0f-ba9ce260677b">
+<img width="630" alt="5" src="https://github.com/user-attachments/assets/13891854-633a-4ff6-83f4-04848061c90e">
 
 
 - **Data Transformation**: Plotting segment length against speed to identify correlations.
@@ -144,7 +144,7 @@ By Visualizing traffic patterns in the years 2019-2020 and 2021-2022. We can det
 
 #### 6. Heatmap
 
-<img width="630" alt="Heatmap" src="https://github.com/uic-cs424/assignment-4-chicagobulls/assets/144625177/7b96bb99-f116-429a-af40-a4400339f55d">
+<img width="630" alt="6" src="https://github.com/user-attachments/assets/c076373f-d147-42f9-a2b0-cf2a0ef6311f">
 
 
 - **Data Transformation**: Grouping congestion levels by time and day.
@@ -158,7 +158,7 @@ By Visualizing traffic patterns in the years 2019-2020 and 2021-2022. We can det
 
 #### 1. Interactive Street Speed Visualization
 
-<img width="725" alt="Interactive Street Speed Visualization" src="https://github.com/uic-cs424/assignment-4-chicagobulls/assets/144625177/780fa30a-c115-4d96-80ca-b57a200a97f9">
+<img width="725" alt="l1" src="https://github.com/user-attachments/assets/c078ef82-c194-4423-a4ed-0f0fbc0a2087">
 
 
 - **Encodings**: 
@@ -172,7 +172,7 @@ By Visualizing traffic patterns in the years 2019-2020 and 2021-2022. We can det
 
 #### 2. Linked Line Chart and Bubble Chart
 
-<img width="725" alt="Linked Line Chart and Bubble Chart" src="https://github.com/uic-cs424/assignment-4-chicagobulls/assets/144625177/a6a1bb42-6050-4ed2-9e17-0d248aa520e6">
+<img width="725" alt="l2" src="https://github.com/user-attachments/assets/329117db-a983-422d-b773-95f5e9146c1d">
 
 
 - **Encodings**: 
@@ -193,7 +193,7 @@ By Visualizing traffic patterns in the years 2019-2020 and 2021-2022. We can det
 
 #### 3. Linked Scatter Plot and Histogram
 
-<img width="541" alt="Linked Scatter Plot and Histogram" src="https://github.com/uic-cs424/assignment-4-chicagobulls/assets/144625177/1314a795-3011-41b3-a51c-100553f36240">
+<img width="541" alt="l3" src="https://github.com/user-attachments/assets/b7c50bad-aa74-42e6-9c00-6f60dd7b970e">
 
 
 - **Encodings**: 
@@ -212,7 +212,7 @@ By Visualizing traffic patterns in the years 2019-2020 and 2021-2022. We can det
 
 #### 4. Linked Line Chart and Heatmap
 
-<img width="541" alt="Linked Line Chart and Heatmap" src="https://github.com/uic-cs424/assignment-4-chicagobulls/assets/144625177/167c10c2-32bb-4c3d-9afe-b02ca2b1cf0e">
+<img width="541" alt="l4" src="https://github.com/user-attachments/assets/8dca178b-fa10-4e86-84ca-8de5867175d8">
 
 
 - **Encodings**: 
@@ -230,7 +230,7 @@ By Visualizing traffic patterns in the years 2019-2020 and 2021-2022. We can det
 
 #### 5. Linked Bar Chart and Bubble Chart
 
-<img width="541" alt="Linked Bar Chart and Bubble Chart" src="https://github.com/uic-cs424/assignment-4-chicagobulls/assets/144625177/2346861f-41b9-4a6b-878b-f9034cc16177">
+<img width="541" alt="l5" src="https://github.com/user-attachments/assets/5af9c813-e641-4791-9043-e0c1071c5386">
 
 
 - **Encodings**: 
@@ -249,7 +249,7 @@ By Visualizing traffic patterns in the years 2019-2020 and 2021-2022. We can det
 
 ### New Multiple Linked View Visualization
 
-<img width="1512" alt="multiple linked view visualization" src="https://github.com/uic-cs424/assignment-4-chicagobulls/assets/144625177/227da2f3-f09a-4d74-9a06-f846de04270f">
+<img width="1512" alt="mlv" src="https://github.com/user-attachments/assets/d2d739ef-89b9-4063-b93e-f8288c94f43a">
 
 
 This new visualization involves a combination of a bar chart and scatter plot, linked through a dropdown selector with attributes Speed, Length and Bus Count for interactive exploration of street data.
@@ -284,7 +284,7 @@ This new visualization involves a combination of a bar chart and scatter plot, l
 
 ### Spatial Visualization
 
-<img width="436" alt="spatial view visualization" src="https://github.com/uic-cs424/assignment-4-chicagobulls/assets/144625177/b33690d7-3130-4239-8b35-fc8690621d46">
+<img width="436" alt="spa" src="https://github.com/user-attachments/assets/dc824c50-cd5e-49c8-b29d-31c09a1f9d2a">
 
 
 This spatial visualization is combination of choropleth map, line chart and heatmap.
@@ -317,7 +317,7 @@ This spatial visualization is combination of choropleth map, line chart and heat
 
 ## Image of All Visualizations:
 
-![collective image](https://github.com/uic-cs424/assignment-4-chicagobulls/assets/144625177/b325485c-785c-4cea-aa43-2969ae6e420a)
+![collective](https://github.com/user-attachments/assets/9afcc79d-0ea7-43aa-8553-f0091fba246d)
 
 
 ### Link to visualizations website hosted on GitHub Pages : https://vishalgoudmogili.github.io/ 
@@ -369,25 +369,25 @@ This spatial visualization is combination of choropleth map, line chart and heat
 
 - While trying to install utk on macOS we were getting error related to failed building wheel for osmium, then we tried install utk of downgraded versions like 0.8.2, 0.8.3, 0.8.6, 0.8.7, but we were still facing the same error:
 
-<img width="1512" alt="Screenshot 2023-12-03 at 20 38 06" src="https://github.com/uic-cs424/assignment-4-chicagobulls/assets/144625177/b2ee7a51-a50c-47d0-9391-2b9972b40fd1">
+<img width="1512" alt="e1" src="https://github.com/user-attachments/assets/7bd7771b-156d-46a9-ada3-c01dc7a4445d">
 
 
-<img width="1512" alt="Screenshot 2023-12-03 at 20 38 13" src="https://github.com/uic-cs424/assignment-4-chicagobulls/assets/144625177/2f61f6e4-293b-4d69-825d-53de4339339c">
+<img width="1512" alt="e2" src="https://github.com/user-attachments/assets/058d6730-87d5-497a-a4d9-01b031963ec5">
 
 
-<img width="1512" alt="Screenshot 2023-12-03 at 20 38 20" src="https://github.com/uic-cs424/assignment-4-chicagobulls/assets/144625177/78d10490-a5ed-40a7-92d5-b4d8d61a97e1">
+<img width="1512" alt="e3" src="https://github.com/user-attachments/assets/aef88174-214d-460e-b5d0-f2b96a6604d3">
 
 
-<img width="1512" alt="Screenshot 2023-12-03 at 20 38 27" src="https://github.com/uic-cs424/assignment-4-chicagobulls/assets/144625177/95c6d90f-8a9e-4082-8b9d-4bf03a4e0892">
+<img width="1512" alt="e4" src="https://github.com/user-attachments/assets/8c5ed830-dd06-47d6-9b08-c210918a7b7b">
 
 
-<img width="1512" alt="Screenshot 2023-12-03 at 20 38 35" src="https://github.com/uic-cs424/assignment-4-chicagobulls/assets/144625177/5ffd7cec-7cfa-4ff9-8b25-40123890dda6">
+<img width="1512" alt="e5" src="https://github.com/user-attachments/assets/97499ea3-cae0-4810-b018-9538bcb972cb">
 
 
 - We then tried to install utk on windows machine and it got installed successfully but then again we were getting another error while downloading layers from OSM like below:
   
 
-![error on windows](https://github.com/uic-cs424/assignment-4-chicagobulls/assets/144625177/40b901cc-8699-41cb-944f-67e5b512d428)
+![ew](https://github.com/user-attachments/assets/43548098-76bd-447c-90db-b90e88c9eb1a)
 
 
 
